@@ -1,5 +1,8 @@
 package com.site.blog.my.core.entity;
 
+/**
+ * 后台管理员()
+ */
 public class AdminUser {
     private Integer adminUserId;
 
